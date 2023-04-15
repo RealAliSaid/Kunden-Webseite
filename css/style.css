@@ -762,7 +762,7 @@ a:focus {
 .service .service-text {
     display: flex;
     align-items: center;
-    height: 80px;
+    height: 60px;
     background: #030f27;
     overflow: hidden;
     white-space: nowrap;
@@ -777,7 +777,7 @@ a:focus {
     font-weight: 700;
     color: #DEB160;
     text-align: left;
-    word-wrap: break-word;
+    overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
 }
