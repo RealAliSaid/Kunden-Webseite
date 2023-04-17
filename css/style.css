@@ -176,7 +176,7 @@ a:focus {
 .nav-bar .navbar {
     height: 100%;
     background: #231F1E !important;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 .navbar-dark .navbar-nav .nav-link,
