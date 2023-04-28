@@ -30,6 +30,13 @@ a:focus {
     text-decoration: none;
 }
 
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+  }
+
+
 .btn:focus {
     box-shadow: none;
 }
